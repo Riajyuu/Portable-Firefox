@@ -1,0 +1,1 @@
+%~dp0firefox.exe -profile %~dp0Profile
